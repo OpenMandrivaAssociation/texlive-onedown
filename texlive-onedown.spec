@@ -1,6 +1,6 @@
 Name:		texlive-onedown
 Version:	59010
-Release:	1
+Release:	2
 Summary:	Typeset Bridge Diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/onedown
